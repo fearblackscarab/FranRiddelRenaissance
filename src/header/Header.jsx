@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import LargeNav from "./LargeNav";
-
+import "./header.css";
 
 const Header = () => {
     return (
