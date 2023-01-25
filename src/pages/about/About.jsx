@@ -1,4 +1,4 @@
-const About = (props) => {
+const About = () => {
     return (
         <main className="main">
             <div className="container">
