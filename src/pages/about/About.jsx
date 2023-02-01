@@ -5,7 +5,7 @@ const About = () => {
                 <div className="about-div text-center">
                     <div className="row">
                         <div className="about-img-div d-none d-lg-block col-lg-6">
-                            <img src="/media/about-style.JPG" alt="3 bracelets, presented with a black background" className="img-fluid about-img" />
+                            <img src="/media/new_about.JPG" alt="3 bracelets, presented with a black background" className="img-fluid about-img" />
                         </div>
                         <div className="about-section col-12 col-lg-6">
                             <h2 className="about-title">About</h2>
