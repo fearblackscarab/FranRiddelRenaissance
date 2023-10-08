@@ -1,0 +1,10 @@
+.Shame{
+    width: auto;
+    height: auto;
+    
+    border-width: 100px;
+    border-color: azure;
+    position: absolute;
+    left: -400px;
+    top: -400px;
+}
