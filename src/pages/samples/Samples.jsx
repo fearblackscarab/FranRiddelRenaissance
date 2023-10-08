@@ -8,10 +8,10 @@ const Samples=()=>{
             <div className="container">
                 <div className="row">
                     <Product img='sea_necklace.jpeg' name='' type='necklace'/>
-                    <Product img='stopwatch_neck.jpg' name='' type='necklace'/>
-                    <Product img='seaweed_neck.jpg' name='' type='necklace'/>
-                    <Product img='emerald_brace.jpg' name='' type='bracelet'/>
-                    <Product img='emerald_neck.jpg' name='' type='necklace'/>
+                    <Product img='stopwatch_neck.jpeg' name='' type='necklace'/>
+                    <Product img='seaweed_neck.jpeg' name='' type='necklace'/>
+                    <Product img='emerald_brace.jpeg' name='' type='bracelet'/>
+                    <Product img='emerald_neck.jpeg' name='' type='necklace'/>
                     <Product img='broch.jpg' name='' type='bracelet'/>
                     <Product img='crest.jpg' name='' type='necklace'/>
                     <Product img='emerald-crest.jpg' name='' type='necklace'/>
