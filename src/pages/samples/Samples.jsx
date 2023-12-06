@@ -7,10 +7,10 @@ const Samples=()=>{
             <h2 className="test">Samples</h2>
             <div className="container">
                 <div className="row">
+                    <Product img='a_book_top.jpg' name='' type='media'/>
                     <Product img='band_blue.jpg' name='' type='bracelet'/>
                     <Product img='bland_blue.jpg' name='' type='bracelet'/>
                     <Product img='blue-man.jpg' name='' type='bracelet'/>
-                    <Product img='book5.jpg' name='' type='bracelet'/>
                     <Product img='broch.jpg' name='' type='bracelet'/>
                     <Product img='brochs.jpg' name='' type='bracelet'/>
                     <Product img='emerald_brace.jpeg' name='' type='bracelet'/>
@@ -28,8 +28,7 @@ const Samples=()=>{
                     <Product img='shield_black.jpg' name='' type='necklace'/>
                     <Product img='star-pendant.jpg' name='' type='necklace'/>
                     <Product img='stopwatch_neck.jpeg' name='' type='necklace'/>
-                    <Product img='silverware.jpg' name='' type='other'/>
-                    <Product img='star.jpg' name='' type='other'/>
+                    <Product img='Memory_keep.jpg' name='' type='media'/>
                 </div>
             </div>
         </div>
